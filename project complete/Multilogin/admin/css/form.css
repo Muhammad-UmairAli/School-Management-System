@@ -1,0 +1,6 @@
+.form {
+  background: url(../img/pleux.gif) !important;
+  background-repeat: no-repeat;
+  background-size: cover !important;
+  background-attachment: fixed;
+}
